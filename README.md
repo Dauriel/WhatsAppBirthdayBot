@@ -4,14 +4,14 @@ I usually forget to congratulate people on their birthday so decided to make a t
 
 Uses a Google Sheets csv to track birthday and sends an api request that should open your local Whatsapp app. You still need to press send (reduces moral guilt). I run the script on startup.
 
-#### Default CSV example
+#### Default CSV example:
 
 | Name  | Birthday   | Number   | Language |
 | ----- | ---------- | -------- | -------- |
 | John  | 02/01/2023 | 49xxxxxx | EN       |
 | Maria | 09/02/2023 | 34xxxxx  | ES       |
 
-#### Google Sheets csv setup
+#### Google Sheets csv setup:
 
 1. Open sheet
 2. Click on share
@@ -19,7 +19,7 @@ Uses a Google Sheets csv to track birthday and sends an api request that should 
 4. Copy link, replace `edit?usp=sharing`with `export?gid=0&format=csv`
 5. Paste link where [URL](https://github.com/Dauriel/WhatsAppBirthdayBot/blob/8070b1220cdeef34f6a3924b63a8ed9d80473046/birthday_congratulator.py#L10)
 
-#### Languages supported
+#### Languages supported:
 
 - English (EN)
 
