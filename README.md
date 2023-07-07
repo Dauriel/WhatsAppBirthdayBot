@@ -19,8 +19,13 @@ Uses a Google Sheets csv to track birthday and sends an api request that should 
 4. Copy link, replace `edit?usp=sharing`with `export?gid=0&format=csv`
 5. Paste link where [URL](https://github.com/Dauriel/WhatsAppBirthdayBot/blob/8070b1220cdeef34f6a3924b63a8ed9d80473046/birthday_congratulator.py#L10)
 
-#### Languages supported:
+#### Text generation
+
+Text is generated in selected language. Asterisk (*) is replaced by person's name. Emojis are chosen at random from the emoji list (default 2 emojis).
+
+##### Languages supported:
 
 - English (EN)
 
 - Spanish (ES)
+
