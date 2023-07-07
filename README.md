@@ -11,6 +11,8 @@ Uses a Google Sheets csv to track birthday and sends an api request that should 
 | John  | 02/01/2023 | 49xxxxxx | EN       |
 | Maria | 09/02/2023 | 34xxxxx  | ES       |
 
+Year gets parsed out.
+
 #### Google Sheets csv setup:
 
 1. Open sheet
