@@ -4,6 +4,8 @@ I usually forget to congratulate people on their birthday so decided to make a t
 
 Uses a Google Sheets csv to track birthday and sends an api request that should open your local Whatsapp app. You still need to press send (reduces moral guilt). I run the script on startup.
 
+Default browser is firefox. Can be changed [here](https://github.com/Dauriel/WhatsAppBirthdayBot/blob/8070b1220cdeef34f6a3924b63a8ed9d80473046/birthday_congratulator.py#L11)
+
 #### Default CSV example:
 
 | Name  | Birthday   | Number   | Language |
